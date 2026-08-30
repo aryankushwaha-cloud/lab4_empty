@@ -1,2 +1,7 @@
 efgh
+HEAD
 Change from folder B
+
+Change from folder A
+
+e58ea7b (Commit A from assignment2)
